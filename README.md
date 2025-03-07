@@ -4,5 +4,5 @@ un programa que modele el concepto de una persona. Una persona posee nombre, ape
 
 
 - **Entregable**:
-Repositorio de git
-Captura de pantalla de la clase Persona y del método main de la clase App.
+  Repositorio de git
+  Captura de pantalla de la clase Persona y del método main de la clase App.
